@@ -1,3 +1,9 @@
+/** Author: Anna Font Llenas and Andreagiovanni Reina a.reina@sheffield.ac.uk
+ *  Copyright University of Sheffield, 2018
+ *  If you use this code for scientific experiment, please cite:
+ *  A. Font Llenas et al. 2018 in ANTS 2018
+ */
+
 #include "kilolib.h"
 #include <stdlib.h>
 //#include <stdio.h>
@@ -16,8 +22,8 @@
 
 /* Enum for boolean flags */
 typedef enum {
-	false = 0,
-	true = 1,
+	false = 0,//!< false
+	true = 1, //!< true
 } bool;
 
 /* Enum for different motion types */

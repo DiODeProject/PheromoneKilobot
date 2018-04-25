@@ -1,3 +1,9 @@
+/** Author: Anna Font Llenas and Andreagiovanni Reina a.reina@sheffield.ac.uk
+ *  Copyright University of Sheffield, 2018
+ *  If you use this code for scientific experiment, please cite:
+ *  A. Font Llenas et al. 2018 in ANTS 2018
+ */
+
 #ifndef ARK_EXPERIMENT2_H
 #define ARK_EXPERIMENT2_H
 
