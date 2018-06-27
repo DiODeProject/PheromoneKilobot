@@ -2,7 +2,7 @@
 Source files of the experiments of stigmergic communication in a Kilobot swarm.
 
 It includes:
-* source of the Kilobot software;
+* source of the Kilobot software (same code for the simulated Kilobots in ARGoS and for the real Kilobots);
 * the ARK experiment source code;
 * the ARGoS simulation code.
 
